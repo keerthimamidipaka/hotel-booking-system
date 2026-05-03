@@ -29,7 +29,7 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> AI & ML </p>
+    <p><strong>Course Opted:</strong> Java Applications </p>
     <p><strong>Instructor Name:</strong> Prof.Radhakumari Challa </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
@@ -83,16 +83,6 @@ My training experience at SureTrust was very valuable and enriching. I gained st
 </p>
 
 
-<hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
-
-
-## **References**
-
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
-
-
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
@@ -108,8 +98,10 @@ The sessions enhanced my confidence in expressing ideas, participating in discus
 During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
+
+  <!-- add the location where you helped -->
+- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
