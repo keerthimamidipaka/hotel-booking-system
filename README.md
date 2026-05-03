@@ -18,7 +18,7 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> Simran Kaur </p>
+    <p><strong>Name:</strong> Keerthi Mamidipaka </p>
     <p><strong>Email ID:</strong> keerthimamidipakag19java@gmail.com </p>
     <p><strong>College Name:</strong> Vignan's Institute of Engineering for Women </p>
     <p><strong>Branch/Specialization :</strong> Artificial Intelligence and Machine Learning </p>
